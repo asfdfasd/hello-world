@@ -1,6 +1,10 @@
-# hello-world
-start from scratch
+<html>
+<p>Example</p>
+<h1>My 1st JavaScript</h1>
+<button type="button"
+onclick="document.getElementById
 
-My baby is pop-star Huang zitao.
-
-The one I'm falling for in reality (right now) is k.y.l.e.
+('demo').innerHTML='DontLoveKAnyMore'">
+Click Me</button>
+<p id="demo"></p>
+</html>
